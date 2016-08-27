@@ -5,7 +5,7 @@
 
 class EmailBot 
 {
-    //--------------VARIABLESS
+    //--------------VARIABLES
     private $fileURL;
     private $yourAdress;
     private $object;
